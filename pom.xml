@@ -11,7 +11,7 @@
   <scm>
 <connection>scm:git:https://github.com/jcourreg/training-app.git</connection>
 <developerConnection>scm:git:https://github.com/jcourreg/training-app.git</developerConnection>
-<url>https://github.com/walidsaad/training-app</url>
+<url>https://github.com/jcourreg/training-app-github</url>
 <tag>master</tag>
 </scm>
 
